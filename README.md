@@ -72,10 +72,8 @@ The application will run at [http://localhost:3000](http://localhost:3000).
 │   ├── routes              # API route definitions
 │   ├── services            # Business logic
 │   └── utils               # Utility functions (e.g., JWT, logger)
-├── migrations              # Database migrations
 ├── .env                    # Environment variables
-├── package.json            # Project dependencies and scripts
-└── README.md               # Documentation
+└── package.json            # Project dependencies and scripts
 ```
 
 ## Tools and Libraries
