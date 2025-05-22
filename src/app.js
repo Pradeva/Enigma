@@ -2,8 +2,8 @@ require('dotenv').config();
 const express = require('express');
 const cors = require('cors')
 const { connectDB } = require('./config/db');
-const userRoutes = require('./routes/users');
-const carRoutes = require('./routes/cars');
+const userRoutes = require('./routes/m_userRoute');
+// const carRoutes = require('./routes/cars');
 
 const logger = require('./utils/logger');
 
@@ -23,7 +23,7 @@ app.use((req, res, next) => {
 
 // Routes
 app.use('/users', userRoutes);
-app.use('/cars', carRoutes);
+// app.use('/cars', carRoutes);
 
 // Koneksi ke database
 connectDB();
