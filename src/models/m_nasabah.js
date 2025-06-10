@@ -16,6 +16,14 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: 'nasabah_id',
         as: 'company_cash_loans',
       });
+      m_nasabah.hasMany(models.trx_company_non_cash_loan, {
+        foreignKey: 'nasabah_id',
+        as: 'company_non_cash_loans',
+      });
+      m_nasabah.hasMany(models.trx_kolektabilitas, {
+        foreignKey: 'nasabah_id',
+        as: 'kolektabilitas',
+      });
     }
   }
 

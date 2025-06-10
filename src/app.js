@@ -8,6 +8,7 @@ const trx_dpkRoutes = require('./routes/trx_dpkRoute');
 const trx_segmenRoutes = require('./routes/trx_segmenRoute');
 const trx_company_cash_loanRoutes = require('./routes/trx_company_cash_loanRoute');
 const trx_company_non_cash_loanRoutes = require('./routes/trx_company_non_cash_loanRoute');
+const trx_kolektabilitasRoutes = require('./routes/trx_kolektabilitasRoute');
 // const carRoutes = require('./routes/cars');
 
 const logger = require('./utils/logger');
@@ -33,6 +34,7 @@ app.use('/dpk', trx_dpkRoutes);
 app.use('/segmen', trx_segmenRoutes);
 app.use('/company-cash-loans', trx_company_cash_loanRoutes);
 app.use('/company-non-cash-loans', trx_company_non_cash_loanRoutes);
+app.use('/kolektabilitas', trx_kolektabilitasRoutes);
 // app.use('/cars', carRoutes);
 
 // Koneksi ke database

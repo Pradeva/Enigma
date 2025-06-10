@@ -14,6 +14,10 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: 'kreditur_id',
         as: 'company_cash_loans',
       });
+      m_kreditur.hasMany(models.trx_company_non_cash_loan, {
+        foreignKey: 'kreditur_id',
+        as: 'company_non_cash_loans',
+      });
     }
   }
   m_kreditur.init({
