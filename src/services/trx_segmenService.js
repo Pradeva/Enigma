@@ -1,6 +1,5 @@
 const db = require('../models');
-const trx_dpk = db.trx_dpk;
-const ref_jenis_dpk = db.ref_jenis_dpk;
+const trx_segmen = db.trx_segmen;
 const m_nasabah = db.m_nasabah;
 const logger = require('../utils/logger');
 
@@ -13,16 +12,11 @@ const formatRupiah = (angka) => {
     }).format(angka);
 };
 
-exports.getDpkByNasabahId = async (nasabahId) => {
+exports.getSegmenByNasabahId = async (nasabahId) => {
     try {
-        const dpk = await trx_dpk.findAll({
+        const segmen = await trx_segmen.findAll({
             where: { nasabah_id: nasabahId },
             include: [
-                {
-                    model: ref_jenis_dpk,
-                    as: 'jenis_dpk',
-                    attributes: { exclude: ['createdAt', 'updatedAt'] },
-                },
                 {
                     model: m_nasabah,
                     as: 'nasabah',
@@ -31,20 +25,20 @@ exports.getDpkByNasabahId = async (nasabahId) => {
             ],
             attributes: { exclude: ['createdAt', 'updatedAt'] },
         });
-        logger.info(`Fetched dpk for nasabah ${nasabahId}`);
+        logger.info(`Fetched segmen for nasabah ${nasabahId}`);
 
         // Format nominal ke Rupiah
-        const formattedDpk = dpk.map(item => {
+        const formattedSegmen = segmen.map(item => {
             const json = item.toJSON();
             return {
                 ...json,
-                nominal: formatRupiah(json.nominal)
+                outstanding: formatRupiah(json.outstanding)
             };
         });
         
-        return formattedDpk;
+        return formattedSegmen;
     } catch (error) {
-        logger.error('Error fetching dpk by nasabah id', error);
-        throw new Error('Error fetching dpk by nasabah id');
+        logger.error('Error fetching segmen by nasabah id', error);
+        throw new Error('Error fetching segmen by nasabah id');
     }
 }

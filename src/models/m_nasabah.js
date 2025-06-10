@@ -8,6 +8,14 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: 'nasabah_id',
         as: 'dpk',
       });
+      m_nasabah.hasMany(models.trx_segmen, {
+        foreignKey: 'nasabah_id',
+        as: 'segmen',
+      });
+      m_nasabah.hasMany(models.trx_company_cash_loan, {
+        foreignKey: 'nasabah_id',
+        as: 'company_cash_loans',
+      });
     }
   }
 

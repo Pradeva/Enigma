@@ -22,7 +22,7 @@ exports.getNasabahPagination = async (page = 1, limit = 10) => {
     const { rows: nasabah, count: totalItems } = await m_nasabah.findAndCountAll({
       offset,
       limit,
-      order: [['createdAt', 'DESC']],
+      order: [['createdAt', 'ASC']],
     });
 
     logger.info(`Fetched ${nasabah.length} nasabah`);

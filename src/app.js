@@ -5,6 +5,9 @@ const { connectDB } = require('./config/db');
 const userRoutes = require('./routes/m_userRoute');
 const nasabahRoutes = require('./routes/m_nasabahRoute');
 const trx_dpkRoutes = require('./routes/trx_dpkRoute');
+const trx_segmenRoutes = require('./routes/trx_segmenRoute');
+const trx_company_cash_loanRoutes = require('./routes/trx_company_cash_loanRoute');
+const trx_company_non_cash_loanRoutes = require('./routes/trx_company_non_cash_loanRoute');
 // const carRoutes = require('./routes/cars');
 
 const logger = require('./utils/logger');
@@ -27,6 +30,9 @@ app.use((req, res, next) => {
 app.use('/users', userRoutes);
 app.use('/nasabah', nasabahRoutes);
 app.use('/dpk', trx_dpkRoutes);
+app.use('/segmen', trx_segmenRoutes);
+app.use('/company-cash-loans', trx_company_cash_loanRoutes);
+app.use('/company-non-cash-loans', trx_company_non_cash_loanRoutes);
 // app.use('/cars', carRoutes);
 
 // Koneksi ke database
