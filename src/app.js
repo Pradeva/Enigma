@@ -3,6 +3,8 @@ const express = require('express');
 const cors = require('cors')
 const { connectDB } = require('./config/db');
 const userRoutes = require('./routes/m_userRoute');
+const nasabahRoutes = require('./routes/m_nasabahRoute');
+const trx_dpkRoutes = require('./routes/trx_dpkRoute');
 // const carRoutes = require('./routes/cars');
 
 const logger = require('./utils/logger');
@@ -23,6 +25,8 @@ app.use((req, res, next) => {
 
 // Routes
 app.use('/users', userRoutes);
+app.use('/nasabah', nasabahRoutes);
+app.use('/dpk', trx_dpkRoutes);
 // app.use('/cars', carRoutes);
 
 // Koneksi ke database
