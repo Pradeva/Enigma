@@ -24,6 +24,10 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: 'nasabah_id',
         as: 'kolektabilitas',
       });
+      m_nasabah.hasMany(models.rel_mnasabah_mpengurus_nasabah, {
+        foreignKey: 'nasabah_id',
+        as: 'mnasabah_mpengurus_nasabah',
+      })
     }
   }
 

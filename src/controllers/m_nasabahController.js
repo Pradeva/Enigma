@@ -1,4 +1,4 @@
-const {getAllNasabah, getNasabahById, createNasabah, getNasabahPagination} = require('../services/m_nasabahService');
+const {getAllNasabah, getNasabahById, createNasabah, getNasabahPagination, getNasabahByCriteria} = require('../services/m_nasabahService');
 const logger = require('../utils/logger');
 
 // Mendapatkan semua nasabah
@@ -49,6 +49,18 @@ exports.createNasabah = async (req, res) => {
     res.status(201).json(newNasabah);
   } catch (error) {
     logger.error('Error in createNasabah controller', error);
+    res.status(500).send('Internal Server Error');
+  }
+};
+
+// Mendapatkan nasabah berdsarkan NPWP, CIF, atau nama
+exports.getNasabahBySearch = async (req, res) => {
+  const {npwp, cif, nama} = req.query;
+  try{
+    const result = await getNasabahByCriteria({npwp, cif, nama});
+    res.status(200).json(result);
+  } catch (error) {
+    logger.error('Error in getNasabahBySearch controller', error);
     res.status(500).send('Internal Server Error');
   }
 };

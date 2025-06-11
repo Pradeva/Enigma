@@ -1,6 +1,7 @@
 const db = require('../models');
 const m_nasabah = db.m_nasabah;
 const logger = require('../utils/logger');
+const { Op, literal } = require('sequelize');
 
 // Mendapatkan semua nasabah
 exports.getAllNasabah = async () => {
@@ -63,3 +64,91 @@ exports.createNasabah = async (nasabahData) => {
     throw new Error('Error creating nasabah');
   }
 };
+
+
+// ambang batas kemiripan (bisa disesuaikan)
+const SIMILARITY_THRESHOLD = 0.3;
+
+exports.getNasabahByCriteria = async ({ npwp, cif, nama }) => {
+  try {
+    const whereConditions = [];
+
+    if (npwp) {
+      whereConditions.push({ NPWP: npwp });
+    }
+
+    if (cif) {
+      whereConditions.push({ CIF: cif });
+    }
+
+    if (nama) {
+      whereConditions.push(
+        literal(`similarity(lower("nama"), lower('${nama}')) > ${SIMILARITY_THRESHOLD}`)
+      );
+    }
+
+    const nasabah = await m_nasabah.findAll({
+      where: {
+        [Op.and]: whereConditions
+      },
+      order: nama
+        ? literal(`similarity(lower("nama"), lower('${nama}')) DESC`)
+        : undefined,
+      attributes: {
+        exclude: ['createdAt', 'updatedAt']
+      }
+    });
+
+    logger.info(`Fetched nasabah: ${JSON.stringify(nasabah)}`);
+    return nasabah;
+  } catch (error) {
+    logger.error('Error fetching nasabah by criteria', error);
+    throw new Error('Error fetching nasabah by criteria');
+  }
+};
+
+
+
+
+// exports.getNasabahByCriteria = async ({npwp, cif, nama}) => {
+//   try {
+//     const whereClause = {};
+
+//     if (npwp) {
+//       whereClause.NPWP = npwp;
+//     }
+
+//     if (cif) {
+//       whereClause.CIF = cif;
+//     }
+
+//     if (nama) {
+//       // whereClause.nama = {
+//       //   [Op.like]: `%${nama}%`
+//       // };
+//       // Pakai fuzzy search via similarity
+//       whereClause.push(
+//         literal(`similarity(lower("nama"), lower('${nama}')) > ${SIMILARITY_THRESHOLD}`) // Adjust threshold as needed
+//       );
+//     }
+
+//     const nasabah = await m_nasabah.findAll({
+//       // where: whereClause,
+//       where: {
+//         [Op.and]: whereClause
+//       },
+//       order: nama
+//         ? literal(`similarity(lower("nama"), lower('${nama}')) DESC`)
+//         : undefined,
+//       attributes: {
+//         exclude: ['createdAt', 'updatedAt']
+//       }
+//     })
+
+//     logger.info(`Fetched nasabah ${nasabah.name}`);
+//     return nasabah;
+//   } catch (error) {
+//     logger.error('Error fetching nasabah by criteria', error);
+//     throw new Error('Error fetching nasabah by criteria');
+//   }
+// }

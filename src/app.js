@@ -9,6 +9,7 @@ const trx_segmenRoutes = require('./routes/trx_segmenRoute');
 const trx_company_cash_loanRoutes = require('./routes/trx_company_cash_loanRoute');
 const trx_company_non_cash_loanRoutes = require('./routes/trx_company_non_cash_loanRoute');
 const trx_kolektabilitasRoutes = require('./routes/trx_kolektabilitasRoute');
+const rel_mnasabah_mpengurus_nasabahRoutes = require('./routes/rel_mnasabah_mpengurus_nasabahRoute');
 // const carRoutes = require('./routes/cars');
 
 const logger = require('./utils/logger');
@@ -35,6 +36,7 @@ app.use('/segmen', trx_segmenRoutes);
 app.use('/company-cash-loans', trx_company_cash_loanRoutes);
 app.use('/company-non-cash-loans', trx_company_non_cash_loanRoutes);
 app.use('/kolektabilitas', trx_kolektabilitasRoutes);
+app.use('/nasabah-pengurus', rel_mnasabah_mpengurus_nasabahRoutes);
 // app.use('/cars', carRoutes);
 
 // Koneksi ke database
