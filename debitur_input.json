@@ -1,0 +1,3487 @@
+{
+    "extracted_data": [
+        {
+            "data": {
+                "NAMA": "BORNEO MITRA SINERGI",
+                "NPWP": "003331998972400",
+                "PERIODE": "Maret 2025",
+                "cash_loan": [
+                    {
+                        "bunga": "17.43 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "87.757.670",
+                        "pelapor": "250330 - PT Dipo Star Finance",
+                        "plafon_awal": "233.735.840",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "05 Agustus 2026",
+                        "tanggal_mulai": "05 Agustus 2021"
+                    },
+                    {
+                        "bunga": "17.43 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "152.783.941",
+                        "pelapor": "250330 - PT Dipo Star Finance",
+                        "plafon_awal": "313.417.856",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "26 Februari 2027",
+                        "tanggal_mulai": "26 Februari 2022"
+                    },
+                    {
+                        "bunga": "18.4 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "115.821.835",
+                        "pelapor": "250330 - PT Dipo Star Finance",
+                        "plafon_awal": "389.488.320",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "26 Februari 2026",
+                        "tanggal_mulai": "26 Februari 2022"
+                    },
+                    {
+                        "bunga": "8.1 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "60.577.267",
+                        "pelapor": "250230 - PT Astra Sedaya Finance",
+                        "plafon_awal": "382.155.750",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "02 Oktober 2025",
+                        "tanggal_mulai": "02 November 2021"
+                    },
+                    {
+                        "bunga": "18.99 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "40.382.806",
+                        "pelapor": "252600 - PT Mandiri Tunas Finance",
+                        "plafon_awal": "120.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "13 Januari 2026",
+                        "tanggal_mulai": "13 Januari 2023"
+                    },
+                    {
+                        "bunga": "8.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "236.118.988",
+                        "pelapor": "250230 - PT Astra Sedaya Finance",
+                        "plafon_awal": "374.636.565",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "13 Juni 2027",
+                        "tanggal_mulai": "13 Juli 2023"
+                    },
+                    {
+                        "bunga": "18.96 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "177.260.509",
+                        "pelapor": "252600 - PT Mandiri Tunas Finance",
+                        "plafon_awal": "237.624.430",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "03 Desember 2027",
+                        "tanggal_mulai": "03 Desember 2023"
+                    },
+                    {
+                        "bunga": "8.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "228.788.066",
+                        "pelapor": "250230 - PT Astra Sedaya Finance",
+                        "plafon_awal": "374.636.565",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "29 Mei 2027",
+                        "tanggal_mulai": "30 Juni 2023"
+                    },
+                    {
+                        "bunga": "19.93 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "375.683.634",
+                        "pelapor": "252600 - PT Mandiri Tunas Finance",
+                        "plafon_awal": "540.554.036",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "11 Agustus 2027",
+                        "tanggal_mulai": "11 Agustus 2023"
+                    },
+                    {
+                        "bunga": "6.87 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "316.933.068",
+                        "pelapor": "250330 - PT Dipo Star Finance",
+                        "plafon_awal": "497.300.956",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "25 Juni 2026",
+                        "tanggal_mulai": "25 Juli 2024"
+                    },
+                    {
+                        "bunga": "12.48 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "308.180.463",
+                        "pelapor": "252600 - PT Mandiri Tunas Finance",
+                        "plafon_awal": "397.298.048",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "02 Juli 2027",
+                        "tanggal_mulai": "31 Juli 2024"
+                    },
+                    {
+                        "bunga": "16.28 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "30.913.705",
+                        "pelapor": "252600 - PT Mandiri Tunas Finance",
+                        "plafon_awal": "104.040.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "15 Desember 2025",
+                        "tanggal_mulai": "15 Desember 2022"
+                    },
+                    {
+                        "bunga": "6.83 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "317.550.301",
+                        "pelapor": "250230 - PT Astra Sedaya Finance",
+                        "plafon_awal": "469.577.016",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "13 Februari 2027",
+                        "tanggal_mulai": "13 Maret 2024"
+                    },
+                    {
+                        "bunga": "6.83 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "293.024.827",
+                        "pelapor": "250230 - PT Astra Sedaya Finance",
+                        "plafon_awal": "469.577.016",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "24 Desember 2026",
+                        "tanggal_mulai": "24 Januari 2024"
+                    },
+                    {
+                        "bunga": "11.25 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.413.445.896",
+                        "pelapor": "252918 - PT Hino Finance Indonesia",
+                        "plafon_awal": "1.851.440.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "25 September 2026",
+                        "tanggal_mulai": "25 Oktober 2024"
+                    },
+                    {
+                        "bunga": "11.25 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "954.593.734",
+                        "pelapor": "252918 - PT Hino Finance Indonesia",
+                        "plafon_awal": "1.250.400.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "09 September 2026",
+                        "tanggal_mulai": "09 Oktober 2024"
+                    },
+                    {
+                        "bunga": "4.65 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "310.091.519",
+                        "pelapor": "251170 - PT Orico Balimor Finance",
+                        "plafon_awal": "461.900.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "27 November 2027",
+                        "tanggal_mulai": "27 Desember 2024"
+                    },
+                    {
+                        "bunga": "7.3 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "325.851.333",
+                        "pelapor": "252600 - PT Mandiri Tunas Finance",
+                        "plafon_awal": "398.698.760",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "11 Agustus 2027",
+                        "tanggal_mulai": "11 September 2024"
+                    },
+                    {
+                        "bunga": "11.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "6.500.000.000",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "6.500.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Desember 2025",
+                        "tanggal_mulai": "22 Agustus 2011"
+                    },
+                    {
+                        "bunga": "11.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.450.000.000",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "1.450.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Desember 2025",
+                        "tanggal_mulai": "29 Desember 2020"
+                    },
+                    {
+                        "bunga": "11.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "570.000.000",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "570.000.000",
+                        "riwayat_kualitas": [],
+                        "tanggal_akhir": "28 Desember 2025",
+                        "tanggal_mulai": "29 Desember 2020"
+                    },
+                    {
+                        "bunga": "11.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.400.000.000",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "1.400.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Desember 2025",
+                        "tanggal_mulai": "29 Desember 2020"
+                    },
+                    {
+                        "bunga": "12.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "277.000.000",
+                        "pelapor": "451 - PT Bank Syariah Indonesia",
+                        "plafon_awal": "277.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "25 Mei 2025",
+                        "tanggal_mulai": "06 Februari 2025"
+                    },
+                    {
+                        "bunga": "12.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "280.000.000",
+                        "pelapor": "451 - PT Bank Syariah Indonesia",
+                        "plafon_awal": "280.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "25 Juni 2025",
+                        "tanggal_mulai": "17 Maret 2025"
+                    },
+                    {
+                        "bunga": "12.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "163.000.000",
+                        "pelapor": "451 - PT Bank Syariah Indonesia",
+                        "plafon_awal": "163.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "25 April 2025",
+                        "tanggal_mulai": "07 Januari 2025"
+                    },
+                    {
+                        "bunga": "10.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "6.200.000.000",
+                        "pelapor": "200 - PT Bank Tabungan Negara (Persero) Tbk",
+                        "plafon_awal": "6.200.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "13 November 2025",
+                        "tanggal_mulai": "13 November 2020"
+                    },
+                    {
+                        "bunga": "8.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "111.540.162",
+                        "pelapor": "252270 - PT Arthaasia Finance",
+                        "plafon_awal": "401.600.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Februari 2026",
+                        "tanggal_mulai": "28 Maret 2022"
+                    },
+                    {
+                        "bunga": "7.09 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "0",
+                        "pelapor": "260290 - PT BCA Finance",
+                        "plafon_awal": "353.129.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "05 Maret 2025",
+                        "tanggal_mulai": "05 April 2022"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.814.044.837",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "6.586.004.277",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "23 November 2025",
+                        "tanggal_mulai": "14 November 2023"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "761.064.813",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "5.313.224.813",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "23 Juli 2025",
+                        "tanggal_mulai": "06 Mei 2024"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.643.006.530",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "3.684.856.744",
+                        "riwayat_kualitas": [],
+                        "tanggal_akhir": "01 Juli 2026",
+                        "tanggal_mulai": "19 Juni 2024"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "8.307.608.333",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "8.307.608.333",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "20 November 2025",
+                        "tanggal_mulai": "20 Maret 2025"
+                    },
+                    {
+                        "bunga": "11.25 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "12.700.000.000",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "12.700.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "25 Agustus 2025",
+                        "tanggal_mulai": "26 Agustus 2024"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "3.320.888.072",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "7.146.285.572",
+                        "riwayat_kualitas": [],
+                        "tanggal_akhir": "15 Agustus 2025",
+                        "tanggal_mulai": "15 November 2024"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "5.557.744.465",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "11.583.238.024",
+                        "riwayat_kualitas": [],
+                        "tanggal_akhir": "15 Agustus 2025",
+                        "tanggal_mulai": "15 November 2024"
+                    },
+                    {
+                        "bunga": "14.82 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "151.032.725",
+                        "pelapor": "252830 - PT Mega Central Finance",
+                        "plafon_awal": "308.509.725",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "14 Maret 2027",
+                        "tanggal_mulai": "14 Maret 2022"
+                    },
+                    {
+                        "bunga": "11.25 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "2.000.000.000",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "2.000.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "21 Agustus 2025",
+                        "tanggal_mulai": "26 Agustus 2024"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.008.555.556",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "1.008.555.556",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "21 Oktober 2025",
+                        "tanggal_mulai": "21 Februari 2025"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.011.945.423",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "1.011.945.423",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "12 Agustus 2025",
+                        "tanggal_mulai": "12 Februari 2025"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.515.587.329",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "1.515.587.329",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "15 Desember 2025",
+                        "tanggal_mulai": "15 Januari 2025"
+                    },
+                    {
+                        "bunga": "14 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.006.292.961",
+                        "pelapor": "250250 - PT Buana Finance",
+                        "plafon_awal": "1.526.250.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "30 Oktober 2026",
+                        "tanggal_mulai": "30 Oktober 2024"
+                    },
+                    {
+                        "bunga": "11 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "2.677.642.310",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "2.677.642.310",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "23 Mei 2025",
+                        "tanggal_mulai": "26 September 2024"
+                    }
+                ],
+                "non_cash_loan": [
+                    {
+                        "jaminan": "PT. Badak Natural Gas Liquefac",
+                        "jenis_garansi": "Garansi - Lainnya",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "1.134.000.000",
+                        "pelapor": "002 - PT Bank Rakyat Indonesia (Persero) Tbk",
+                        "plafon_awal": "1.134.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Agt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "04 Januari 2026",
+                        "tanggal_mulai": "22 November 2023"
+                    },
+                    {
+                        "jaminan": "PT Badak Natural Gas Liquefact",
+                        "jenis_garansi": "Garansi - Lainnya",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "543.104.450",
+                        "pelapor": "002 - PT Bank Rakyat Indonesia (Persero) Tbk",
+                        "plafon_awal": "543.104.450",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Agt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "04 Januari 2026",
+                        "tanggal_mulai": "21 November 2023"
+                    },
+                    {
+                        "jaminan": "BADAK LNG PT",
+                        "jenis_garansi": "Garansi - Lainnya",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "806.939.050",
+                        "pelapor": "002 - PT Bank Rakyat Indonesia (Persero) Tbk",
+                        "plafon_awal": "806.939.050",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Agt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "13 Agustus 2025",
+                        "tanggal_mulai": "06 September 2023"
+                    },
+                    {
+                        "jaminan": "BADAK NGL PT",
+                        "jenis_garansi": "Garansi - Lainnya",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "461.506.250",
+                        "pelapor": "002 - PT Bank Rakyat Indonesia (Persero) Tbk",
+                        "plafon_awal": "461.506.250",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Agt 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Agt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "14 Juli 2025",
+                        "tanggal_mulai": "13 Juli 2023"
+                    },
+                    {
+                        "jaminan": "BORNEO MITRA SINERGI",
+                        "jenis_garansi": "Garansi - Lainnya",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "393.750.000",
+                        "pelapor": "002 - PT Bank Rakyat Indonesia (Persero) Tbk",
+                        "plafon_awal": "393.750.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "18 Agustus 2025",
+                        "tanggal_mulai": "20 November 2024"
+                    },
+                    {
+                        "jaminan": "PT. Nindya Karya",
+                        "jenis_garansi": "Advanced Payment Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "960.761.199",
+                        "pelapor": "008 - PT Bank Mandiri (Persero) Tbk",
+                        "plafon_awal": "6.700.000.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Mei 2025",
+                        "tanggal_mulai": "10 Oktober 2024"
+                    },
+                    {
+                        "jaminan": "PUPUK SRIWIDJAJA PALEMBANG",
+                        "jenis_garansi": "Advanced Payment Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "635.000.000",
+                        "pelapor": "003782 - PT Asuransi Kredit Indonesia",
+                        "plafon_awal": "635.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "07 Februari 2025",
+                        "tanggal_mulai": "14 November 2024"
+                    },
+                    {
+                        "jaminan": "PT BADAK NGL",
+                        "jenis_garansi": "Garansi - Lainnya",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "349.386.000",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "349.386.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Agt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "19 Desember 2025",
+                        "tanggal_mulai": "10 November 2023"
+                    },
+                    {
+                        "jaminan": "DIMAS YOSSI PRIYAMBODO",
+                        "jenis_garansi": "Garansi - Lainnya",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "472.889.000",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "472.889.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Agt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "05 Desember 2025",
+                        "tanggal_mulai": "23 November 2023"
+                    },
+                    {
+                        "jaminan": "DIMAS YOSSI PRIYAMBODO",
+                        "jenis_garansi": "Garansi - Lainnya",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "572.016.350",
+                        "pelapor": "110 - PT BPD Jawa Barat Dan Banten Tbk",
+                        "plafon_awal": "572.016.350",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Agt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Juli 2025",
+                        "tanggal_mulai": "11 Oktober 2023"
+                    },
+                    {
+                        "jaminan": "PT Asmin Bara Bronang",
+                        "jenis_garansi": "Advanced Payment Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "35.200.000.000",
+                        "pelapor": "200 - PT Bank Tabungan Negara (Persero) Tbk",
+                        "plafon_awal": "35.200.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Agt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "26 Maret 2025",
+                        "tanggal_mulai": "13 Juni 2024"
+                    },
+                    {
+                        "jaminan": "PT. Pupuk Indonesia (Persero)",
+                        "jenis_garansi": "Bid Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "270.000.000",
+                        "pelapor": "003782 - PT Asuransi Kredit Indonesia",
+                        "plafon_awal": "270.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "05 Maret 2025",
+                        "tanggal_mulai": "06 Desember 2024"
+                    },
+                    {
+                        "jaminan": "PT. PUPUK KALIMANTAN TIMUR",
+                        "jenis_garansi": "Bid Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "20.000.000",
+                        "pelapor": "003782 - PT Asuransi Kredit Indonesia",
+                        "plafon_awal": "20.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "08 Maret 2025",
+                        "tanggal_mulai": "06 Desember 2024"
+                    },
+                    {
+                        "jaminan": "PT. Pupuk Indonesia (Persero)",
+                        "jenis_garansi": "Bid Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "130.000.000",
+                        "pelapor": "003782 - PT Asuransi Kredit Indonesia",
+                        "plafon_awal": "130.000.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "04 Maret 2025",
+                        "tanggal_mulai": "06 Desember 2024"
+                    },
+                    {
+                        "jaminan": "PT. NINDYA KARYA (PERSERO)",
+                        "jenis_garansi": "Garansi - Lainnya",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "480.380.600",
+                        "pelapor": "003782 - PT Asuransi Kredit Indonesia",
+                        "plafon_awal": "480.380.600",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Mei 2025",
+                        "tanggal_mulai": "10 Oktober 2024"
+                    },
+                    {
+                        "jaminan": "PT. PUPUK KALIMANTAN TIMUR",
+                        "jenis_garansi": "Performance Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "124.350.000",
+                        "pelapor": "003782 - PT Asuransi Kredit Indonesia",
+                        "plafon_awal": "124.350.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "11 Desember 2024",
+                        "tanggal_mulai": "14 November 2024"
+                    },
+                    {
+                        "jaminan": "PT. PUPUK KALIMANTAN TIMUR",
+                        "jenis_garansi": "Performance Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "85.400.000",
+                        "pelapor": "Kredit/Pembiayaan Nama LJK",
+                        "plafon_awal": "85.400.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "12 Juni 2025",
+                        "tanggal_mulai": "17 Maret 2025"
+                    },
+                    {
+                        "jaminan": "PT. PUPUK KALIMANTAN TIMUR",
+                        "jenis_garansi": "Performance Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "393.750.000",
+                        "pelapor": "003782 - PT Asuransi Kredit Indonesia",
+                        "plafon_awal": "393.750.000",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "19 Juli 2025",
+                        "tanggal_mulai": "09 Januari 2025"
+                    },
+                    {
+                        "jaminan": "PT BADAK NGL",
+                        "jenis_garansi": "Performance Bonds",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "692.674.750",
+                        "pelapor": "003782 - PT Asuransi Kredit Indonesia",
+                        "plafon_awal": "692.674.750",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": "1",
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "02 Mei 2027",
+                        "tanggal_mulai": "13 Maret 2025"
+                    }
+                ]
+            },
+            "filename": "PT. BORNEO MITRA SINERGI"
+        }
+    ],
+    "nasabahId": 1
+}

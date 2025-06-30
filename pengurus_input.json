@@ -1,0 +1,3883 @@
+{
+    "extracted_data": [
+        {
+            "data": {
+                "NAMA": "ARIF HARI SUSENO",
+                "NIK": "3175061501770018",
+                "NPWP": "584615496004000",
+                "PERIODE": "Maret 2025",
+                "kredit_aktif": [
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "2 - Dalam Perhatian Khusus",
+                        "outstanding": "Rp 0,00",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "Rp 45.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "2",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "2",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "2",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "31 Desember 2026",
+                        "tanggal_mulai": "31 Desember 2020"
+                    },
+                    {
+                        "bunga": "6.95 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 237.167.446,00",
+                        "pelapor": "016 - PT Bank Maybank Indonesia Tbk d/h Bank Internasional Indonesia",
+                        "plafon_awal": "Rp 619.098.480,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "15 April 2026",
+                        "tanggal_mulai": "15 Mei 2023"
+                    },
+                    {
+                        "bunga": "6 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 2.368.313,00",
+                        "pelapor": "251200 - PT Maybank Indonesia Finance",
+                        "plafon_awal": "Rp 6.253.520,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "15 April 2026",
+                        "tanggal_mulai": "12 Mei 2023"
+                    },
+                    {
+                        "bunga": "42 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 0,00",
+                        "pelapor": "023 - PT Bank UOB Indonesia",
+                        "plafon_awal": "Rp 200.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "30 November 2029",
+                        "tanggal_mulai": "28 November 2014"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 9.999,00",
+                        "pelapor": "022 - PT Bank CIMB Niaga Tbk",
+                        "plafon_awal": "Rp 100.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Februari 2031",
+                        "tanggal_mulai": "16 Februari 2024"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 216.450,00",
+                        "pelapor": "014 - PT Bank Central Asia Tbk",
+                        "plafon_awal": "Rp 25.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "30 April 2028",
+                        "tanggal_mulai": "30 April 2024"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 3.948.472,00",
+                        "pelapor": "019 - PT Pan Indonesia Bank Tbk",
+                        "plafon_awal": "Rp 70.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Februari 2029",
+                        "tanggal_mulai": "29 Februari 2024"
+                    },
+                    {
+                        "bunga": "10.56 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 24.899.173,00",
+                        "pelapor": "023 - PT Bank UOB Indonesia",
+                        "plafon_awal": "Rp 150.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "30 Juni 2030",
+                        "tanggal_mulai": "05 Juni 2002"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 599.755.146,00",
+                        "pelapor": "620118 - PT BPRS Madina Mandiri Sejahtera",
+                        "plafon_awal": "Rp 600.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "02 Juli 2025",
+                        "tanggal_mulai": "02 Januari 2025"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 33.422.362,00",
+                        "pelapor": "008 - PT Bank Mandiri (Persero) Tbk",
+                        "plafon_awal": "Rp 150.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "31 Oktober 2029",
+                        "tanggal_mulai": "14 Oktober 2024"
+                    }
+                ]
+            },
+            "filename": "ARIF HARI SUSENO"
+        },
+        {
+            "data": {
+                "NAMA": "",
+                "NIK": "",
+                "NPWP": "",
+                "PERIODE": "",
+                "kredit_aktif": []
+            },
+            "filename": "CHRISTINA WINARTI"
+        },
+        {
+            "data": {
+                "NAMA": "DIMAS YOSSI PRIYAMBODO",
+                "NIK": "3310193107900001",
+                "NPWP": "3310193107900001",
+                "PERIODE": "Maret 2025",
+                "kredit_aktif": [
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 4.153.158,00",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "Rp 5.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "30 Juni 2026",
+                        "tanggal_mulai": "30 Juni 2020"
+                    },
+                    {
+                        "bunga": "4.75 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 1.411.834.924,00",
+                        "pelapor": "002 - PT Bank Rakyat Indonesia (Persero) Tbk",
+                        "plafon_awal": "Rp 1.464.500.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "03 Januari 2044",
+                        "tanggal_mulai": "03 Januari 2024"
+                    },
+                    {
+                        "bunga": "10 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 412.859.471,00",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "Rp 430.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "29 Desember 2029",
+                        "tanggal_mulai": "23 Desember 2024"
+                    }
+                ]
+            },
+            "filename": "DIMAS YOSSI PRIYAMBODO"
+        },
+        {
+            "data": {
+                "NAMA": "PANDU DWIJAYA",
+                "NIK": "3275123005750005",
+                "NPWP": "999999999999992",
+                "PERIODE": "Maret 2025",
+                "kredit_aktif": [
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 0,00",
+                        "pelapor": "011 - PT Bank Danamon Indonesia Tbk",
+                        "plafon_awal": "Rp 12.500.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "31 Maret 2024",
+                        "tanggal_mulai": "28 Juli 2010"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 21.068.392,00",
+                        "pelapor": "046 - PT Bank DBS Indonesia",
+                        "plafon_awal": "Rp 39.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "31 Desember 2028",
+                        "tanggal_mulai": "20 Mei 2011"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 624.421,00",
+                        "pelapor": "046 - PT Bank DBS Indonesia",
+                        "plafon_awal": "Rp 39.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "31 Oktober 2028",
+                        "tanggal_mulai": "30 April 2010"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 37.091.802,00",
+                        "pelapor": "008 - PT Bank Mandiri (Persero) Tbk",
+                        "plafon_awal": "Rp 72.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "28 Februari 2029",
+                        "tanggal_mulai": "02 Juni 2009"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 0,00",
+                        "pelapor": "013 - PT Bank Permata Tbk",
+                        "plafon_awal": "Rp 10.500.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "2",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "01 Desember 2027",
+                        "tanggal_mulai": "22 Agustus 2013"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 0,00",
+                        "pelapor": "013 - PT Bank Permata Tbk",
+                        "plafon_awal": "Rp 10.500.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "2",
+                                    "19"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "01 Juli 2028",
+                        "tanggal_mulai": "20 Juli 2020"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 293.629,00",
+                        "pelapor": "013 - PT Bank Permata Tbk",
+                        "plafon_awal": "Rp 10.500.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "2",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "01 Agustus 2027",
+                        "tanggal_mulai": "22 Agustus 2019"
+                    },
+                    {
+                        "bunga": "6.75 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 511.839.850,00",
+                        "pelapor": "014 - PT Bank Central Asia Tbk",
+                        "plafon_awal": "Rp 864.500.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "03 Juni 2027",
+                        "tanggal_mulai": "03 Juli 2023"
+                    },
+                    {
+                        "bunga": "13.27 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 37.859.488,00",
+                        "pelapor": "260290 - PT BCA Finance",
+                        "plafon_awal": "Rp 45.500.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "27 Mei 2027",
+                        "tanggal_mulai": "27 Juni 2023"
+                    },
+                    {
+                        "bunga": "10 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 349.628.760,00",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "Rp 500.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "14 Maret 2027",
+                        "tanggal_mulai": "15 Maret 2024"
+                    },
+                    {
+                        "bunga": "5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 313.041.000,00",
+                        "pelapor": "014 - PT Bank Central Asia Tbk",
+                        "plafon_awal": "Rp 399.243.114,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "10 Juni 2027",
+                        "tanggal_mulai": "10 Juli 2024"
+                    },
+                    {
+                        "bunga": "5.53 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 16.986.707,00",
+                        "pelapor": "260290 - PT BCA Finance",
+                        "plafon_awal": "Rp 34.041.421,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "10 Juni 2027",
+                        "tanggal_mulai": "10 Juli 2024"
+                    },
+                    {
+                        "bunga": "13.62 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 18.455.362,00",
+                        "pelapor": "260290 - PT BCA Finance",
+                        "plafon_awal": "Rp 32.250.633,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "01 Oktober 2027",
+                        "tanggal_mulai": "31 Oktober 2024"
+                    },
+                    {
+                        "bunga": "7.25 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 323.832.347,00",
+                        "pelapor": "014 - PT Bank Central Asia Tbk",
+                        "plafon_awal": "Rp 361.383.117,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "01 Oktober 2027",
+                        "tanggal_mulai": "01 November 2024"
+                    }
+                ]
+            },
+            "filename": "PANDU DWIJAYA"
+        },
+        {
+            "data": {
+                "NAMA": "SANTI SITORESMI",
+                "NIK": "3275125707770004",
+                "NPWP": "487936726542000",
+                "PERIODE": "Maret 2025",
+                "kredit_aktif": [
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 0,00",
+                        "pelapor": "023 - PT Bank UOB Indonesia",
+                        "plafon_awal": "Rp 97.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "30 November 2029",
+                        "tanggal_mulai": "21 November 2006"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 1.238.188,00",
+                        "pelapor": "023 - PT Bank UOB Indonesia",
+                        "plafon_awal": "Rp 97.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "30 April 2030",
+                        "tanggal_mulai": "23 April 2010"
+                    },
+                    {
+                        "bunga": "21 %",
+                        "jenis_kredit": "kartu kredit",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 4.731.899,00",
+                        "pelapor": "008 - PT Bank Mandiri (Persero) Tbk",
+                        "plafon_awal": "Rp 15.000.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "30 November 2029",
+                        "tanggal_mulai": "16 Desember 2015"
+                    },
+                    {
+                        "bunga": "13.5 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 655.171.749,00",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "Rp 871.860.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 23"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Apr 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mei 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "30 Desember 2033",
+                        "tanggal_mulai": "17 Desember 2018"
+                    },
+                    {
+                        "bunga": "4.75 %",
+                        "jenis_kredit": "konsumsi",
+                        "kualitas": "1 - Lancar",
+                        "outstanding": "Rp 1.583.240.570,00",
+                        "pelapor": "009 - PT Bank Negara Indonesia (Persero) Tbk",
+                        "plafon_awal": "Rp 1.647.300.000,00",
+                        "riwayat_kualitas": [
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jun 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jul 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Sep 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Okt 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Nov 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Des 24"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Jan 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Feb 25"
+                            },
+                            {
+                                "kualitas": [
+                                    "1",
+                                    "0"
+                                ],
+                                "periode": "Mar 25"
+                            }
+                        ],
+                        "tanggal_akhir": "06 Juni 2039",
+                        "tanggal_mulai": "07 Juni 2024"
+                    }
+                ]
+            },
+            "filename": "SANTI SITORESMI"
+        },
+        {
+            "data": {
+                "NAMA": "YUDO ANGGORO SUSILO",
+                "NIK": "3276021607810009",
+                "NPWP": "3276021607810009",
+                "PERIODE": "Januari 2025",
+                "kredit_aktif": []
+            },
+            "filename": "YUDO ANGGORO SUSILO"
+        }
+    ],
+    "nasabahId": 2
+}

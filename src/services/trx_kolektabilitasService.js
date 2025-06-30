@@ -54,7 +54,7 @@ exports.getKolektabilitasByLoanIdAndLoanType = async (loanId, loanType) => {
     try {
         const kolektabilitas = await trx_kolektabilitas.findAll({
             where: { loan_id: loanId, loan_type: loanType },
-            attributes: ['tanggal_kolek','status_kolek'],
+            attributes: ['tanggal_kolek','status_kolek','dpd'],
         });
 
         logger.info(`Fetched count kolektabilitas for loan ${loanId} and loan type ${loanType}`);
