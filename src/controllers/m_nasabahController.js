@@ -1,4 +1,14 @@
-const {getAllNasabah, getNasabahById, createNasabah, getNasabahPagination, getNasabahByCriteria} = require('../services/m_nasabahService');
+const {
+  getAllNasabah, 
+  getNasabahById, 
+  createNasabah, 
+  getNasabahPagination, 
+  getNasabahByCriteria, 
+  getTotalNasabah,
+  getWilayahNasabah,
+  getTotalNPL,
+  getSegmentasiNasabah
+} = require('../services/m_nasabahService');
 const logger = require('../utils/logger');
 
 // Mendapatkan semua nasabah
@@ -11,6 +21,28 @@ exports.getNasabah = async (req, res) => {
     res.status(500).send('Internal Server Error');
   }
 };
+
+// Mendapatkan total semua nasabah
+exports.getCountNasabah = async(req, res) => {
+  try {
+    const totalNasabah = await getTotalNasabah();
+    res.json(totalNasabah);
+  } catch (error) {
+    logger.error('Error in getCountNasabah controller', error);
+    res.status(500).send('Internal Server Error');
+  }
+}
+
+// Mendapatkan total npl semua nasabah
+exports.getCountNpl = async(req, res) => {
+  try {
+    const totalNasabah = await getTotalNPL();
+    res.json(totalNasabah);
+  } catch (error) {
+    logger.error('Error in getCountNpl controller', error);
+    res.status(500).send('Internal Server Error');
+  }
+}
 
 // Mendapatkan nasabah dengan pagination
 exports.getNasabahPagination = async (req, res) => {
@@ -38,6 +70,26 @@ exports.getNasabahById = async (req, res) => {
   } catch (error) {
     logger.error('Error in getNasabahById controller', error);
     res.status(500).send('Internal Server Error');
+  }
+};
+
+// Mendapatkan wilayah nasabah
+exports.getWilayah = async (req, res) => {
+  try {
+    const data = await getWilayahNasabah();
+    res.status(200).json(data);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
+
+// Mendapatkan segmentasi nasabah
+exports.getSegmentasi = async (req, res) => {
+  try {
+    const data = await getSegmentasiNasabah();
+    res.status(200).json(data);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
   }
 };
 

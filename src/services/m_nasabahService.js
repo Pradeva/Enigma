@@ -1,7 +1,9 @@
 const db = require('../models');
 const m_nasabah = db.m_nasabah;
+const trx_company_cash_loan = db.trx_company_cash_loan;
+const trx_company_non_cash_loan = db.trx_company_non_cash_loan;
 const logger = require('../utils/logger');
-const { Op, literal } = require('sequelize');
+const { Op, literal, Sequelize } = require('sequelize');
 
 // Mendapatkan semua nasabah
 exports.getAllNasabah = async () => {
@@ -13,6 +15,43 @@ exports.getAllNasabah = async () => {
     logger.error('Error fetching nasabah', error);
     throw new Error('Error fetching nasabah');
   }
+};
+
+// Mendapatkan total semua nasabah
+exports.getTotalNasabah = async () => {
+  try {
+    result = {};
+    const totalNasabah = await m_nasabah.count();
+    result.totalNasabah = totalNasabah;
+    logger.info(`Fetched ${totalNasabah} nasabah`);
+    return result
+  } catch (error) {
+    logger.error('Error fetching nasabah', error);
+    throw new Error('Error fetching nasabah');
+  }
+};
+
+// Mendapatkan total npl semua nasabah
+exports.getTotalNPL = async () => {
+  const cashNPL = await db.trx_company_cash_loan.count({
+    where: {
+      kolektabilitas: {
+        [Op.ne]: '1 - Lancar'
+      }
+    }
+  });
+
+  const nonCashNPL = await db.trx_company_non_cash_loan.count({
+    where: {
+      kolektabilitas: {
+        [Op.ne]: '1 - Lancar'
+      }
+    }
+  });
+
+  const totalNPL = cashNPL + nonCashNPL;
+
+  return { totalNPL, cashNPL, nonCashNPL };
 };
 
 //Mendapatkan nasabah menggunakan pagination
@@ -52,6 +91,42 @@ exports.getNasabahById = async (id) => {
     throw new Error('Error fetching nasabah by id');
   }
 };
+
+// Mendapatkan wilayah nasabah
+exports.getWilayahNasabah = async () => {
+  const kota = await m_nasabah.findAll({
+    attributes: [
+      ['kota', 'nama'],
+      [Sequelize.fn('COUNT', Sequelize.col('kota')), 'total']
+    ],
+    group: ['kota'],
+    raw: true
+  });
+
+  const provinsi = await m_nasabah.findAll({
+    attributes: [
+      ['provinsi', 'nama'],
+      [Sequelize.fn('COUNT', Sequelize.col('provinsi')), 'total']
+    ],
+    group: ['provinsi'],
+    raw: true
+  });
+
+  return { kota, provinsi };
+};
+
+// Mendapatkan segmentasi nasabah
+exports.getSegmentasiNasabah = async () => {
+  const segmentasi = await m_nasabah.findAll({
+    attributes: [
+      ['segmentasi', 'nama'],
+      [Sequelize.fn('COUNT', Sequelize.col('segmentasi')), 'total']
+    ],
+    group: ['segmentasi'],
+    raw: true
+  });
+  return { segmentasi };
+}
 
 // Menambahkan nasabah baru
 exports.createNasabah = async (nasabahData) => {

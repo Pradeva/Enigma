@@ -24,3 +24,26 @@ exports.getPengurusByNasabahId = async (nasabahId) => {
         throw error;
     }
 };
+
+// Mendapatkan semua relasi nasabah dan pengurus nasabah dari input pengurus id
+exports.getNasabahByPengurusId = async (pengurusId) => {
+    try {
+        const nasabahList = await rel_mnasabah_mpengurus_nasabah.findAll({
+            where: { pengurus_nasabah_id: pengurusId },
+            include: [
+                {
+                    model: db.m_nasabah,
+                    as: 'nasabah',
+                    attributes: { exclude: ['createdAt', 'updatedAt'] },
+                },
+            ],
+            attributes: { exclude: ['createdAt', 'updatedAt'] },
+        });
+
+        logger.info(`Fetched nasabah for pengurus ${pengurusId}`);
+        return nasabahList;
+    } catch (error) {
+        logger.error(`Error fetching nasabah for pengurus ${pengurusId}: ${error.message}`);
+        throw error;
+    }
+};

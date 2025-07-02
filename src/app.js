@@ -13,6 +13,7 @@ const rel_mnasabah_mpengurus_nasabahRoutes = require('./routes/rel_mnasabah_mpen
 const trx_pengurus_loanRoutes = require('./routes/trx_pengurus_loanRoute');
 const trx_pengurus_kolektabilitasRoutes = require('./routes/trx_pengurus_kolektabilitasRoute');
 const extracted_slikRoutes = require('./routes/extracted_slikRoute');
+const m_search_historyRoutes = require('./routes/m_search_historyRoute');
 // const carRoutes = require('./routes/cars');
 
 const logger = require('./utils/logger');
@@ -44,6 +45,7 @@ app.use('/nasabah-pengurus', rel_mnasabah_mpengurus_nasabahRoutes);
 app.use('/pengurus-loans', trx_pengurus_loanRoutes);
 app.use('/pengurus-kolektabilitas', trx_pengurus_kolektabilitasRoutes);
 app.use('/ekstraksi', extracted_slikRoutes);
+app.use('/history', m_search_historyRoutes);
 // app.use('/cars', carRoutes);
 
 // Koneksi ke database

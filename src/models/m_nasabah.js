@@ -41,6 +41,9 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.STRING,
       unique: true,
     },
+    kota: DataTypes.STRING,
+    provinsi: DataTypes.STRING,
+    segmentasi: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'm_nasabah',
