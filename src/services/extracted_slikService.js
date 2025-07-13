@@ -15,10 +15,15 @@ const { Op, where, col } = require('sequelize');
 exports.createExtractedSlikData = async (payload) => {
   const nasabahId = payload.nasabahId;
   const extracted = payload.extracted_data;
+  const periode = payload.extracted_data[0].data.PERIODE;
 
   const t = await sequelize.transaction(); // mulai transaksi
 
   try {
+    await m_nasabah.update(
+      { periode_terbaru: periode },
+      { where: { id: nasabahId }, transaction: t }
+    );
     for (const fileData of extracted) {
       const data = fileData.data;
 
@@ -47,6 +52,7 @@ exports.createExtractedSlikData = async (payload) => {
           suku_bunga: loan.bunga,
           jenis_kredit: loan.jenis_kredit,
           kolektabilitas: loan.kualitas,
+          periode: periode,
         }, { transaction: t });
 
         for (const kolek of loan.riwayat_kualitas || []) {
@@ -57,6 +63,7 @@ exports.createExtractedSlikData = async (payload) => {
             tanggal_kolek: kolek.periode,
             status_kolek: kolek.kualitas[0],
             dpd: kolek.kualitas[1],
+            periode: periode,
           }, { transaction: t });
         }
       }
@@ -86,6 +93,7 @@ exports.createExtractedSlikData = async (payload) => {
           agunan: loan.jaminan,
           jenis_kredit: loan.jenis_garansi,
           kolektabilitas: loan.kualitas,
+          periode: periode,
         }, { transaction: t });
 
         for (const kolek of loan.riwayat_kualitas || []) {
@@ -96,6 +104,7 @@ exports.createExtractedSlikData = async (payload) => {
             tanggal_kolek: kolek.periode,
             status_kolek: kolek.kualitas,
             dpd: null,
+            periode: periode,
           }, { transaction: t });
         }
       }
@@ -113,6 +122,7 @@ exports.createExtractedSlikData = async (payload) => {
 exports.createExtractedSlikPengurusData = async (payload) => {
   const nasabahId = payload.nasabahId;
   const extracted = payload.extracted_data;
+  const periode = payload.extracted_data[0].data.PERIODE;
 
   const t = await sequelize.transaction();
 
@@ -190,6 +200,7 @@ exports.createExtractedSlikPengurusData = async (payload) => {
           suku_bunga: loan.bunga,
           jenis_kredit: loan.jenis_kredit,
           kolektabilitas: loan.kualitas,
+          periode: periode,
         }, { transaction: t });
 
         for (const kolek of loan.riwayat_kualitas || []) {
@@ -208,6 +219,7 @@ exports.createExtractedSlikPengurusData = async (payload) => {
             tanggal_kolek: kolek.periode,
             status_kolek: kolek.kualitas?.[0],
             dpd: kolek.kualitas?.[1] || null,
+            periode: periode,
           }, { transaction: t });
         }
       }

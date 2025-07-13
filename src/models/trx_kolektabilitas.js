@@ -41,6 +41,7 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.STRING,
       allowNull: true
     },
+    periode: DataTypes.STRING,
   }, {
     sequelize,
     modelName: 'trx_kolektabilitas',

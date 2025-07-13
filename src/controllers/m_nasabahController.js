@@ -7,9 +7,12 @@ const {
   getTotalNasabah,
   getWilayahNasabah,
   getTotalNPL,
-  getSegmentasiNasabah
+  getSegmentasiNasabah,
+  getTotalOutstandingNasabah 
 } = require('../services/m_nasabahService');
 const logger = require('../utils/logger');
+const db = require('../models');
+const m_nasabah = db.m_nasabah;
 
 // Mendapatkan semua nasabah
 exports.getNasabah = async (req, res) => {
@@ -116,3 +119,15 @@ exports.getNasabahBySearch = async (req, res) => {
     res.status(500).send('Internal Server Error');
   }
 };
+
+// Mendapatkan total outstanding semua nasabah berdasarkan periode_terbaru
+exports.getTotalOutstanding = async (req, res) => {
+  try {
+    const result = await getTotalOutstandingNasabah();
+    res.status(200).json(result);
+  } catch (error) {
+    logger.error('Error in getTotalOutstanding controller', error);
+    res.status(500).send('Internal Server Error');
+  }
+};
+

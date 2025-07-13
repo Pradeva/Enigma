@@ -2,16 +2,29 @@ const db = require('../models');
 const trx_company_non_cash_loan = db.trx_company_non_cash_loan;
 const m_kreditur = db.m_kreditur;
 const logger = require('../utils/logger');
+const m_nasabah = db.m_nasabah;
 
 // Optional formatter kalau mau format hasil akhirnya ke "12.345.678"
 const formatRupiah = (num) => {
     return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, '.');
 };
 
-exports.getCompanyNonCashLoansByNasabahId = async (nasabahId) => {
+exports.getCompanyNonCashLoansByNasabahId = async (nasabahId, periodeParam = null) => {
   try {
+    let periode = periodeParam;
+    if (!periode) {
+      const nasabah = await m_nasabah.findByPk(nasabahId);
+      if (!nasabah || !nasabah.periode_terbaru) {
+        throw new Error('Periode tidak ditemukan untuk nasabah ini');
+      }
+      periode = nasabah.periode_terbaru;
+    }
+
     const companyNonCashLoans = await trx_company_non_cash_loan.findAll({
-      where: { nasabah_id: nasabahId },
+      where: {
+        nasabah_id: nasabahId,
+        periode: periode
+      },
       include: [
         {
           model: m_kreditur,
@@ -53,13 +66,13 @@ exports.getCompanyNonCashLoansByNasabahId = async (nasabahId) => {
       total_outstanding_formatted: formatRupiah(group.total_outstanding),
     }));
 
-    // 💡 Tambahin grand total
     const grandPlafond = result.reduce((acc, r) => acc + r.total_plafond, 0);
     const grandOutstanding = result.reduce((acc, r) => acc + r.total_outstanding, 0);
 
-    logger.info(`Fetched company non-cash loans for nasabah ${nasabahId}`);
+    logger.info(`Fetched company non-cash loans for nasabah ${nasabahId} dengan periode ${periode}`);
 
     return {
+      periode,
       grouped: result,
       grand_total_plafond: grandPlafond,
       grand_total_outstanding: grandOutstanding,

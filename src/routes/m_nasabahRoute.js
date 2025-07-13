@@ -9,7 +9,8 @@ const {
     getCountNasabah,
     getWilayah,
     getCountNpl,
-    getSegmentasi
+    getSegmentasi,
+    getTotalOutstanding 
 } = require('../controllers/m_nasabahController');
 const { authMiddleware } = require('../middlewares/authMiddleware');
 
@@ -33,6 +34,9 @@ router.get('/wilayah', authMiddleware, getWilayah);
 
 // GET /nasabah/segmentasi - Mendapatkan segmentasi nasabah
 router.get('/segmentasi', authMiddleware, getSegmentasi);
+
+// GET /nasabah/outstanding - Mendapatkan total outstanding semua nasabah (berdasarkan periode_terbaru)
+router.get('/outstanding', authMiddleware, getTotalOutstanding);
 
 // GET /nasabah/:id - Mendapatkan nasabah berdasarkan ID
 router.get('/:id', authMiddleware, getNasabahById);

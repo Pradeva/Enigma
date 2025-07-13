@@ -3,10 +3,10 @@ const trx_kolektabilitas = db.trx_kolektabilitas;
 const logger = require('../utils/logger');
 
 // Get kolektabilitas by nasabah ID dan loan type
-exports.getCountKolektabilitasByNasabahIdAndLoanType = async (nasabahId, loanType) => {
+exports.getCountKolektabilitasByNasabahIdAndLoanType = async (nasabahId, loanType, periode) => {
     try {
         const kolektabilitas = await trx_kolektabilitas.findAll({
-            where: { nasabah_id: nasabahId, loan_type: loanType },
+            where: { nasabah_id: nasabahId, loan_type: loanType,periode: periode },
             attributes: ['status_kolek'],
         });
 

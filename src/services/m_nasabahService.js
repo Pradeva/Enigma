@@ -182,6 +182,56 @@ exports.getNasabahByCriteria = async ({ npwp, cif, nama }) => {
   }
 };
 
+exports.getTotalOutstandingNasabah = async () => {
+  try {
+    const nasabahList = await m_nasabah.findAll({
+      attributes: ['id', 'periode_terbaru']
+    });
+
+    let grandOutstanding = 0;
+
+    for (const nasabah of nasabahList) {
+      const { id, periode_terbaru } = nasabah;
+
+      if (!periode_terbaru) continue;
+
+      // === Cash Loan ===
+      const cashLoans = await trx_company_cash_loan.findAll({
+        where: {
+          nasabah_id: id,
+          periode: periode_terbaru
+        }
+      });
+
+      // === Non Cash Loan ===
+      const nonCashLoans = await trx_company_non_cash_loan.findAll({
+        where: {
+          nasabah_id: id,
+          periode: periode_terbaru
+        }
+      });
+
+      const allLoans = [...cashLoans, ...nonCashLoans];
+
+      for (const loan of allLoans) {
+        const numericOutstanding = parseInt(loan.outstanding?.toString().replace(/\./g, '')) || 0;
+        grandOutstanding += numericOutstanding;
+      }
+    }
+
+    logger.info(`Total outstanding dari semua nasabah: ${grandOutstanding}`);
+    return {
+      total_outstanding: grandOutstanding,
+      total_outstanding_formatted: grandOutstanding.toString().replace(/\B(?=(\d{3})+(?!\d))/g, '.')
+    };
+
+  } catch (error) {
+    logger.error('Error calculating total outstanding', error);
+    throw new Error('Error calculating total outstanding');
+  }
+};
+
+
 
 
 
